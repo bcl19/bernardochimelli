@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img.png" width="150" align="left" style="margin-right: 10px;"/>
+  <img src="img.png" width="150" align="center" style="margin-right: 10px;"/>
 </div>
 
 <h1 align="center">Olá, sou Bernardo Chimelli Luz 👋</h1>
