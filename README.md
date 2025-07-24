@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/113157727?v=4" width="150" style="border-radius: 50%;" alt="Bernardo Chimelli Luz"/>
+  <img src="img.png" width="150" align="left" style="margin-right: 10px;"/>
 </div>
 
 <h1 align="center">Olá, sou Bernardo Chimelli Luz 👋</h1>
@@ -49,7 +49,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bcl19&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcl19&layout=compact&theme=radical" height="160"/>
-  <img src="img.png" width="150" align="left" style="margin-right: 10px;"/>
 </div>
 
 
