@@ -40,7 +40,7 @@ Atualmente estou construindo meu **portfólio pessoal**, onde irei apresentar me
 
 ## 📊 Estatísticas do GitHub
 
-![Bernardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardochimelli&show_icons=true&theme=tokyonight&hide=stars)
+![Bernardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bcl19&show_icons=true&theme=tokyonight&hide=stars)
 
 ---
 
