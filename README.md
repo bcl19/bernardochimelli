@@ -50,3 +50,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bcl19&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcl19&layout=compact&theme=radical" height="160"/>
 </div>
+
+<img src="img.png" width="150" align="left" style="margin-right: 10px;" />
+
+# Bernardo Chimelli Luz
+
+Estudante de Engenharia de Software de Três Rios, RJ, Brasil 🇧🇷  
+Atualmente focado em desenvolvimento **Full Stack** com:
+
+- 🔷 Frontend: React.js  
+- 🔶 Backend: Node.js, Python, C#
+
+🔗 [LinkedIn](https://www.linkedin.com/in/bernardo-chimelli-649628311) | 📧 bernardochimelliluz14@gmail.com
+
+
